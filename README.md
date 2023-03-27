@@ -1,4 +1,4 @@
-Prime Number Checker
+<h1 align="center" >Prime Number Checker:-</h1>
 This program checks whether a given number is prime or not. A prime number is a natural number greater than 1 that is not a product of two smaller natural numbers.
 
 How to Use
