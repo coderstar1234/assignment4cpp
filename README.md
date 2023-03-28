@@ -1,6 +1,9 @@
 <h1 align="center" >Prime Number Checker:-</h1>
 
 - This program checks whether a given number is prime or not. A prime number is a natural number greater than 1 that is not a product of two smaller natural numbers.
+
+<div align="center" >
+<img height="100" wedith="100" src="https://res.cloudinary.com/practicaldev/image/fetch/s--it7aWv4F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rjdim9k4525gck7ko2hk.gif"></div>
 <hr>
 <h1 align="center" >How to Use:-</h1>
 
