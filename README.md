@@ -11,10 +11,12 @@
 - Open the terminal or command prompt and navigate to the directory where the source code is located.
 - Compile the source code using any C++ compiler, such as g++.
 - Run the executable file with the number you want to check as a command-line argument.<hr>
-bash
-Copy code
-g++ prime.cpp -o prime
-./prime 7<hr>
+<h2 align="center" >Bash📖</h2>
+<h3 align="center" >Copy code✏️</h3>
+
+g++ prime.cpp -o prime<br>
+./prime 7<br>
+<hr>
 <h1 align="center" >Algorithm:-</h1>
 
 - To check whether a number is prime, the program uses a brute force approach. It divides the number by every natural number smaller than the square root of the number. If the number is divisible by any of these natural numbers, then it is not prime. Otherwise, it is prime.
